@@ -67,17 +67,13 @@ p {
     padding-top: 80px;
 }
 
-h4 {
-   
-    font-family: "Montserrat", sans-serif;
-    font-weight: bold;
-}
-
-h5 {
+h4, h5{
     color: #66bfbf;
     font-family: "Montserrat", sans-serif;
     font-weight: bold;
 }
+
+
 
 p.col-lg-6.mx-auto.my-5 {
     font-size: 20px;
@@ -94,7 +90,6 @@ p.col-lg-6.mx-auto.my-5 {
 .footer-container {
     background-color: #11999e;
 }
-
 
 .footer-container a {
     font-family: "Montserrat", sans-serif;
