@@ -87,7 +87,7 @@ p.col-lg-6.mx-auto.my-5 {
     font-family: "Montserrat", sans-serif;
 }
 
-.footer-container {
+.footer-section {
     background-color: #11999e;
 }
 
@@ -99,7 +99,7 @@ p.col-lg-6.mx-auto.my-5 {
 
 .footer-container p {
     color: #eaf6f6;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 
